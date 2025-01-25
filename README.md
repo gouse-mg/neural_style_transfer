@@ -1,4 +1,4 @@
-# nueral_style_transfer
+# neural_style_transfer
 paper_implementation01
 # Neural Style Transfer: Low-Level Implementation
 
